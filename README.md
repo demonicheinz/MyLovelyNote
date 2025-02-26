@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ![Banner](/assets/banner.png) -->
+![Banner](/assets/banner.png)
 
 <br>
 
-# Heinz Project
+# My Lovely Note
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&labelColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&labelColor=black)
@@ -34,15 +34,17 @@ Proyek ini adalah [deskripsi singkat tentang proyekmu]. Jelaskan secara umum apa
 
 ## Features
 
-- 
-- 
-- 
+- Amplop interaktif yang dapat dibuka dengan animasi menarik.
+- Surat digital dengan teks yang dapat disesuaikan.
+- Pemutar musik latar dengan kontrol play/pause.
+- Desain responsif dan animasi halus menggunakan Framer Motion.
+- Tema romantis dengan nuansa warna pastel.
 
 ## Tech Stack
 
 - **Framework**: Next.js 15
 - **Bahasa Pemrograman**: TypeScript
-- **Library Frontend**: TailwindCSS
+- **Library Frontend**: React, TailwindCSS, Framer Motion
 
 ## Getting Started
 
